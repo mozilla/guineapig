@@ -1,0 +1,10 @@
+manifest.yml
+npm-debug.log
+.DS_Store
+node_modules
+*.swp
+logs/*
+nohup.out
+pids/*
+.monitor
+

@@ -1,0 +1,22 @@
+{
+  "name": "lovemachine",
+  "version": "0.0.1",
+  "dependencies": {
+    "connect": "1.8.2",
+    "mime": "",
+    "qs": "",
+    "formidable": "",
+    "connect-redis": "1.2.0",
+    "express": "2.5.8",
+    "jade": "0.18.0",
+    "cluster": "0.7.7",
+    "less": "1.1.5",
+    "postprocess": "0.0.2",
+    "redis": "0.7.1",
+    "hiredis": "0.1.13",
+    "connect-cookie-session" : "0.0.2"
+  },
+  "scripts": {
+    "start": "node app.js"
+  }
+}

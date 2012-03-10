@@ -1,0 +1,61 @@
+body {
+  margin: 0;
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 13px;
+  font-weight: normal;
+  line-height: 18px;
+  color: #404040;
+}
+
+#you, #picture {
+  display: inline;
+}
+
+#loginInfo {
+  display: block;
+  width: 100%;
+}
+
+#signinButton {
+}
+
+body, #container {
+  position:relative;
+}
+
+#logout {
+}
+
+.love {
+  vertical-align: top;
+  margin-top: 4px;
+}
+
+.by {
+  vertical-align: baseline;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+.unloved {
+  text-decoration: underline;
+}
+
+.unloved:hover {
+  color: rgb(0, 136, 204);
+}
+.hidden {
+  display: none;
+}
+
+#loginInfo {
+  position: absolute;
+  left: 1em;
+  top: 0.5em;
+}
+
+
+#logout {
+  padding-left: 1ex;
+}
+
